@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\bin\Debug\net6.0\EXAMPLE001.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\bin\Debug\net6.0\EXAMPLE001.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\bin\Debug\net6.0\EXAMPLE001.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\bin\Debug\net6.0\EXAMPLE001.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\bin\Debug\net6.0\EXAMPLE001.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\EXAMPLE001.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\EXAMPLE001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\EXAMPLE001.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\EXAMPLE001.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\EXAMPLE001.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\EXAMPLE001.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\refint\EXAMPLE001.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\EXAMPLE001.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\EXAMPLE001.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\ДЗ разработчик\C#\Examples\EXAMPLE001\obj\Debug\net6.0\ref\EXAMPLE001.dll
